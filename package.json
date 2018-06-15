@@ -1,0 +1,13 @@
+{
+	"name": "nodejstrials",
+	"description": "my home node js trials",
+	"author": "Prady Chin",
+	"version": "1.0.0",
+	"dependencies": {
+		"dateformat": "^3.0.3"
+	},
+	"license": "pradychin",
+	"engines": {
+		"node": "*"
+	}
+}

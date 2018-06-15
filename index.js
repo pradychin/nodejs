@@ -8,3 +8,6 @@ console.log(x);
 
 var x = dateFormat(now, "dd mmmm yyyy, h:MM:ss TT");
 console.log(x);
+
+var x = dateFormat(now, "dd mmmm yyyy, h:MM:ss TT Z");
+console.log(x);
